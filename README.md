@@ -5,6 +5,9 @@
 
 Este projeto é uma aplicação Java para gerenciar o cadastro de produtos. Ele foi desenvolvido com o objetivo de praticar conceitos de Programação Orientada a Objetos (POO) e manipulação de coleções, utilizando boas práticas e tratamento de exceções.
 
+## Aplicação
+![](https://github.com/gustavoHazambuja/Images/blob/main/CadastroProdutos/console.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
